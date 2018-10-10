@@ -1,0 +1,29 @@
+GIT COMMANDS
+
+1. How to connect to a repo.
+git remote add origin URL
+
+2. How to initialize a folder as a git repo
+git init
+
+3. How to stage all the files and changes
+git add .
+
+4. How to commit changes
+git commit -m "message"
+
+5. How to push all commited changes.
+git push origin master
+
+6. How to set user name
+git config --global user.name "aakash10897"
+
+7. How to set up email
+git config --global user.email "aakash.10897@gmail.com"
+
+8. How to check current user
+git config user.name
+
+9. How to check all git config
+git config list
+
