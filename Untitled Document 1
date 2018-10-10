@@ -27,3 +27,13 @@ git config user.name
 9. How to check all git config
 git config list
 
+10 how to bring local and remote repo at same level
+git fetch
+
+11 how to check status of curent branch
+git status
+
+12 how to rebase
+git pull --rebase origin master
+
+
