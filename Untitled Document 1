@@ -36,4 +36,8 @@ git status
 12 how to rebase
 git pull --rebase origin master
 
+13 how to list remote urls and mapping
+git remote -v
 
+14 how to remove rempte urls
+git remote rm origin
